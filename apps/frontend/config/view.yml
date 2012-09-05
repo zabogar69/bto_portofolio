@@ -1,0 +1,21 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/13-View
+
+default:
+
+  http_metas:
+    content-type: text/html
+
+  metas:
+    title:        %APP_META_TITLE%
+    description:  %APP_META_DESCRIPTION%
+    keywords:     %APP_META_KEYWORD%
+    robots:       index, follow
+    language:     nl
+
+#  stylesheets:    []
+
+#  javascripts:    []
+
+  has_layout:     true
+  layout:         layout

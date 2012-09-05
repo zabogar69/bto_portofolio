@@ -1,0 +1,1 @@
+&copy; <?php echo Date("Y");?> - <a href="#">WEBWARE</a> | All rights reserved | <a href="#">Terms of Use</a> | <a href="#">Disclaimer</a>

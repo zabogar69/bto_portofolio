@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="nl" datatype="plaintext" original="messages" date="2010-03-22T12:45:51Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>State</source>
+        <target>Status</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Title</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Actions</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Archived items</source>
+        <target>Archief</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Unarchive batch</source>
+        <target>Unarchive batch</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Insert media</source>
+        <target>Media toevoegen</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Read more</source>
+        <target>Lees meer</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Back to list</source>
+        <target>Terug naar Index</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Delete</source>
+        <target>Verwijder</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Are you sure?</source>
+        <target>Weet je het zeker?</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Save</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Browse Media</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>processing...</source>
+        <target>verwerking...</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Archived Article List</source>
+        <target>Artikel Archief</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Unarchive Batch</source>
+        <target>Unarchive Batch</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>First page</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Previous page</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Next page</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Last page</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>[0] no result|[1] 1 result|(1,+Inf] %1% results</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>(page %%page%%/%%nb_pages%%)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Id</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Pub date</source>
+        <target>Pub datum</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Category</source>
+        <target>Categorie</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Article List</source>
+        <target>Artikel</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Reset</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Filter</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>New</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Delete Batch</source>
+        <target>Verwijder Batch</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Publish Batch</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Unpublish Batch</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Archive Batch</source>
+        <target>Archief Batch</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Ordering</source>
+        <target>Volgorde</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Edit</source>
+        <target>Bewerk</target>
+        <target/>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>No result</source>
+        <target>Geen resultaat</target>
+        <target/>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Choose an action</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>go</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Checked</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>%%id%% - %%state%% - %%title%% - %%description%% - %%author_id%% - %%created_at%% - %%updated_at%%</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Description</source>
+        <target>Omschrijving</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Author</source>
+        <target>Auteur</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Created at</source>
+        <target>Gemaakt op</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Updated at</source>
+        <target>Bijgewerkt op</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Category List</source>
+        <target>Categorie</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Parent</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Super Category</source>
+        <target>Super Categorie</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Getting upload token...</source>
+        <target>Wordt bijgewerkt...</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Uploading file...</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Creating token for uploading a video to youtube failed, please try again</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Media List</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Type</source>
+        <target>Soort</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Multiple Upload</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Preview</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>File is empty</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Sorry... video file is not supported on multiple uploads</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Multiple Media</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Add File</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>Archived Media Category List</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Created date</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Action</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Media Category List</source>
+        <target>Media Categorie</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Menu List</source>
+        <target>Menu</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Super Menu</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Apply</source>
+        <target>Bewerken</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Age Group List</source>
+        <target>Leeftijdsgroep</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Display</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Name</source>
+        <target>Naam</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Min Age</source>
+        <target>Min leeftijd</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Max Age</source>
+        <target>Max leeftijd</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>Age Group Trash Bin</source>
+        <target>Leeftijdsgroep Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>Restore Batch</source>
+        <target>Restaureren Batch</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Destroy Batch</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>Restore</source>
+        <target>Restaureren</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>Destroy</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>Unarchive</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>Article Trash Bin</source>
+        <target>Artikel Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>Category Trash Bin</source>
+        <target>Categorie Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>Course List</source>
+        <target>Cursus</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Code</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Course Trash Bin</source>
+        <target>Cursus Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Group List</source>
+        <target>Groep</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Super Group</source>
+        <target>Super Groep</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Group Trash Bin</source>
+        <target>Groep Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Location List</source>
+        <target>Locatie</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>City</source>
+        <target>Plaats</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Archived Media List</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Media Trash Bin</source>
+        <target>Media Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>redirecting...</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>Media Category Trash Bin</source>
+        <target>Media Categorie Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Menu Trash Bin</source>
+        <target>Menu Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Newsletter List</source>
+        <target>Niuewsbrief</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>Teacher Trash Bin</source>
+        <target>Docent Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Newsletter Trash Bin</source>
+        <target>Niuewsbrief Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Partner List</source>
+        <target>Partner</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Partner Trash Bin</source>
+        <target>Partner Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Rate List</source>
+        <target>Tarief</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Rate</source>
+        <target>Tarief</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Rate Trash Bin</source>
+        <target>Tarief Prullenbak</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Teacher List</source>
+        <target>Docent</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Section</source>
+        <target>Afdeling</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>Duty</source>
+        <target>Functie</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>Active?</source>
+        <target>Actief?</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>New Age Group</source>
+        <target>Nieuw Leeftijdsgroep</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Edit Age Group</source>
+        <target>Bewerk Leeftijdsgroep</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>New Group</source>
+        <target>Nieuw Groep</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Edit Group</source>
+        <target>Bewerk Groep</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Address</source>
+        <target>Straat</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Postcode</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>New Location</source>
+        <target>Nieuw Locatie</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>Edit Location</source>
+        <target>Bewerk Locatie</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>New Rate</source>
+        <target>Nieuw Tarief</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Edit Rate</source>
+        <target>Bewerk Tarief</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>Rate (&amp;euro;)</source>
+        <target>Tarief (&amp;euro;)</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>New Teacher</source>
+        <target>Nieuw Docent</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>Edit Teacher</source>
+        <target>Bewerk Docent</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>Lastname</source>
+        <target>Achternaam</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>Middlename</source>
+        <target>Tussenvoegsels</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Initial</source>
+        <target>Voorletters</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>Nickname</source>
+        <target>Roepnaam</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Gender</source>
+        <target>Geslacht</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>Birthdate</source>
+        <target>Geboortedatum</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>Telp</source>
+        <target>Telefoon</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>Email</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>New Partner</source>
+        <target>Nieuw Partner</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>Edit Partner</source>
+        <target>Bewerk Partner</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>Logo</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Site Information</source>
+        <target>Site Informatie</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>New Category</source>
+        <target>Nieuw Categorie</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>Edit Category</source>
+        <target>Bewerk Categorie</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>New Article</source>
+        <target>Nieuw Artikel</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>Edit Article</source>
+        <target>Bewerk Artikel</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Introtext</source>
+        <target>Introtekst</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>FullText</source>
+        <target>Tekst</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Publish Date</source>
+        <target>Publicatiedatum</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>New Menu</source>
+        <target>Nieuw Menu</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Edit Menu</source>
+        <target>Bewerk Menu</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>Link</source>
+        <target>Link Naar</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>New Media Category</source>
+        <target>Nieuw Media Categorie</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>Edit Media Category</source>
+        <target>Bewerk Media Categorie</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>New Media</source>
+        <target>Nieuw Media</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Edit Media</source>
+        <target>Bewerk Media</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>Media Category</source>
+        <target>Media Categorie</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>Required fields are marked with an asterisk ( &lt;em&gt;*&lt;/em&gt; )</source>
+        <target>Velden gemarkeerd met een ( &lt;em&gt;*&lt;/em&gt; )zijn verplicht.</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>Assigned Locations</source>
+        <target>Toegewezen Locaties</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>Assign Location</source>
+        <target>Toewijzen Locatie</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Cancel</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>Assign</source>
+        <target>Toewijzen</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Search existing location</source>
+        <target>Zoek bestaande locatie</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>Search</source>
+        <target>Zoek</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>or add</source>
+        <target>of voeg</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>new</source>
+        <target>nieuwe</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Location Assigned!</source>
+        <target>Locatie gewijzigd!</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>Start Date</source>
+        <target>Startdatum</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>Lesson Day</source>
+        <target>Lesdag</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>Start and end</source>
+        <target>Start &amp; eindtijd</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>Periode</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>Duration</source>
+        <target>Lesduur / Tijd</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Participants</source>
+        <target># Deelnemers</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Elaborate</source>
+        <target>Uitvoering</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Level</source>
+        <target>Niveau</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>Inactive Date</source>
+        <target>Inactief Datum</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Assigned Groups</source>
+        <target>Toegewezen Groepen</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Group Assigned!</source>
+        <target>Groep gewijzigd!</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Assign Group</source>
+        <target>Toewijzen Groep</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Search existing group</source>
+        <target>Zoek bestaande groep</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>Group</source>
+        <target>Groep</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Location</source>
+        <target>Locatie</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>Assigned Rates</source>
+        <target>Toewijzen Tarieven</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>Rate Assigned!</source>
+        <target>Tarief gewijzigd!</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Assign Rate</source>
+        <target>Toewijzen Tarief</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Search existing rate</source>
+        <target>Zoek bestaande tarief</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Search existing agegroup</source>
+        <target>Zoek bestaande leeftijdsgroep</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>Age Group</source>
+        <target>Leeftijdsgroep</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>Assigned Age Groups</source>
+        <target>Toewijzen Leeftijdsgroepen</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>Age Group Assigned!</source>
+        <target>Leeftijdsgroep gewijzigd!</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>Assign Age Group</source>
+        <target>Toewijzen Leeftijdsgroep</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Teacher</source>
+        <target>Docent</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>Assigned Teachers</source>
+        <target>Toegewezen Docenten</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Teacher Assigned!</source>
+        <target>Docent gewijzigd!</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>Assign Teacher</source>
+        <target>Toewijzen Docent</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>Search existing teacher</source>
+        <target>Zoek bestaande docent</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>Partner</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>Assigned Partners</source>
+        <target>Toegewezen Partners</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>Partner Assigned!</source>
+        <target>Partner gewijzigd!</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>Assign Partner</source>
+        <target>Toewijzen Partner</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>Search existing partner</source>
+        <target>Zoek bestaande partner</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Siteinfo</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Short Description</source>
+        <target>Korte omschrijving</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Long Description</source>
+        <target>Lange omschrijving</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Registration Info</source>
+        <target>Registratie info</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Comment</source>
+        <target>Opmerkingen</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>Target Group</source>
+        <target>Doelgroep</target>
+      </trans-unit>
+      <trans-unit id="196">
+        <source>Material</source>
+        <target>Materiaal</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Student</source>
+        <target>Cursist</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>Course</source>
+        <target>Cursus</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Course Code</source>
+        <target>Cursus Code</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>Registration</source>
+        <target>Registratie</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Registration List</source>
+        <target>Inschrijvingen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

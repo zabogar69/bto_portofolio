@@ -1,0 +1,17 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  sf_guard_plugin:
+    success_signin_url:      dashboard/index       # the plugin use the referer as default
+  .general:
+    maxPerPage:              25
+    maxThumbSize:            200
+    prefixThumb:             tn_
+    prefixResize:            rs_
+    resizeWidth:             415
+    resizeHeight:            0
+    media_folder:            media
+    flash_folder:            flash
+    gallery_config:          images.xml

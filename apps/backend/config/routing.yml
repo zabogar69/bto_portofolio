@@ -1,0 +1,77 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+
+btoproject:
+  class: sfPropelRouteCollection
+  options:
+    model:                btoproject
+    module:               btoproject
+    prefix_path:          /btoproject
+    column:               id
+    object_actions:       { sortup: put, sortdown: put, restore: put, destroy: put }
+    with_wildcard_routes: true
+
+company:
+  class: sfPropelRouteCollection
+  options:
+    model:                company
+    module:               company
+    prefix_path:          /company
+    column:               id
+    object_actions:       { sortup: put, sortdown: put, restore: put, destroy: put }
+    with_wildcard_routes: true
+
+component:
+  class: sfPropelRouteCollection
+  options:
+    model:                component
+    module:               component
+    prefix_path:          /component
+    column:               id
+    object_actions:       { sortup: put, sortdown: put, restore: put, destroy: put }
+    with_wildcard_routes: true
+
+hours:
+  class: sfPropelRouteCollection
+  options:
+    model:                hours
+    module:               hours
+    prefix_path:          /hours
+    column:               id
+    object_actions:       { sortup: put, sortdown: put, restore: put, destroy: put }
+    with_wildcard_routes: true
+
+user:
+  class: sfPropelRouteCollection
+  options:
+    model:                sfGuardUserProfile
+    module:               user
+    prefix_path:          /user
+    column:               id
+    object_actions:       { sortup: put, sortdown: put, restore: put, destroy: put }
+    with_wildcard_routes: true
+
+# default rules
+homepage:
+  url:   /
+  param: { module: dashboard, action: index }
+
+# SFGuard
+sf_guard_signin:
+  url:   /login
+  param: { module: sfGuardAuth, action: signin }
+ 
+sf_guard_signout:
+  url:   /logout
+  param: { module: sfGuardAuth, action: signout }
+
+
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

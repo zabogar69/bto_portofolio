@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en_US" datatype="plaintext">
+    <body>
+      <trans-unit id="3">
+        <source>1 minute</source>
+        <target>1 minuut</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>%minutes% minutes</source>
+        <target>%minutes% minuten</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>less than a minute</source>
+        <target>minder dan een minuut</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>less than 5 seconds</source>
+        <target>minder dan 5 seconden</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>less than 10 seconds</source>
+        <target>minder dan 10 seconden</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>less than 20 seconds</source>
+        <target>minder dan 20 seconden</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>half a minute</source>
+        <target>een halve minuut</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>%minutes% minutes</source>
+        <target>%minutes% minuten</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>%minutes% minutes</source>
+        <target>%minutes% minuten</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>about 1 hour</source>
+        <target>ongeveer 1 uur</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>about %hours% hours</source>
+        <target>ongeveer %hours% uur</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>1 day</source>
+        <target>1 dag</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>%days% days</source>
+        <target>%days% dagen</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>about 1 month</source>
+        <target>ongeveer 1 maand</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>%months% months</source>
+        <target>%months% maanden</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>about 1 year</source>
+        <target>ongeveer 1 jaar</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>over %years% years</source>
+        <target>meer dan %years% jaar</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

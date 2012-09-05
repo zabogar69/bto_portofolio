@@ -1,0 +1,18 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  .general:
+    meta_title:              BTO
+    meta_description:        BTO
+    meta_keyword:            BTO, BTO zaanstad bv
+    maxPerPage:              10
+    maxThumbSize:            100
+    prefixThumb:             tn_
+    prefixResize:            rs_
+    resizeWidth:             507
+    resizeHeight:            0
+    media_folder:            media
+    adminEmailInfo:          info@antz.nl 
+    commentEmailSubject:     you got new comment - BTO

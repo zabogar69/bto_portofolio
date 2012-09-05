@@ -1,0 +1,67 @@
+# Author: Prasma Anindita
+propel:
+  company:
+    id:                 ~
+    state:              { type: varchar(1), default: A, required: true }
+    name:               { type: varchar(250), required: true }
+    description:        { type: clob }
+    city:               { type: varchar(250) } 
+    phone:              { type: varchar(20) } 
+    created_at:         ~
+    updated_at:         ~
+
+  sf_guard_user_profile:
+    _attributes:        { phpName: sfGuardUserProfile }
+    id:                 ~
+    state:              { type: varchar(1), default: A, required: true }
+    gender:             { type: varchar(10)}
+    initials:           { type: varchar(5), required: true }
+    firstname:          { type: varchar(150) }
+    middlename:         { type: varchar(150) }
+    lastname:           { type: varchar(150), required: true }
+    bsn:                { type: varchar(150) }
+    company_id:         { type: integer, foreignTable: company, foreignReference: id }
+    is_supervisor:      { type: boolean, default: 0 }
+    params:             { type: clob }
+    user_id:            { type: integer, foreignTable: sf_guard_user, foreignReference: id, onDelete: cascade }
+    created_at:         ~
+    updated_at:         ~
+
+  btoproject:
+    id:                 ~
+    state:              { type: varchar(1), default: A, required: true }
+    name:               { type: varchar(250), required: true }
+    description:        { type: clob }
+    hours:              { type: integer }
+    startdate:          { type: timestamp }
+    duration:           { type: integer }
+    company_id:         { type: integer, foreignTable: company, foreignReference: id }
+    params:             { type: clob }
+    created_at:         ~
+    updated_at:         ~
+
+  component:
+    id:                 ~
+    state:              { type: varchar(1), default: A, required: true }
+    name:               { type: varchar(250), required: true }
+    description:        { type: clob }
+    btoproject_id:         { type: integer, foreignTable: btoproject, foreignReference: id }
+    params:             { type: clob }
+    created_at:         ~
+    updated_at:         ~
+
+  hours:
+    id:                 ~
+    state:              { type: varchar(1), default: A, required: true }
+    amount:             { type: integer, required: true }
+    hourdate:           { type: timestamp }
+    component_id:       { type: integer, foreignTable: component, foreignReference: id }
+    user_id:            { type: integer, foreignTable: sf_guard_user, foreignReference: id }
+    params:             { type: clob }
+    created_at:         ~
+    updated_at:         ~
+
+  user_project:
+    user_id:            { type: integer, foreignTable: sf_guard_user, foreignReference: id, onDelete: cascade }
+    project_id:         { type: integer, foreignTable: btoproject, foreignReference: id, onDelete: cascade }
+  

@@ -1,0 +1,46 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/04-Settings
+
+prod:
+  .settings:
+    no_script_name:         false
+    logging_enabled:        false
+
+dev:
+  .settings:
+    error_reporting:        <?php echo (E_ALL | E_STRICT)."\n" ?>
+    web_debug:              true
+    cache:                  false
+    no_script_name:         false
+    etag:                   false
+
+test:
+  .settings:
+    error_reporting:        <?php echo ((E_ALL | E_STRICT) ^ E_NOTICE)."\n" ?>
+    cache:                  false
+    web_debug:              false
+    no_script_name:         false
+    etag:                   false
+
+all:
+  .settings:
+    # Language setting
+    i18n:                    true
+    default_culture:         nl_NL
+
+    # SFGuard authenticatie/authorisatie
+    enabled_modules:      	[default, sfGuardGroup, sfGuardUser, sfGuardPermission, sfGuardAuth]
+    login_module:           sfGuardAuth   # To be called when a non-authenticated user
+    login_action:           signin        # Tries to access a secure page
+    secure_module:          sfGuardAuth   # To be called when a user doesn't have
+    secure_action:          secure        # The credentials required for an action
+
+    # Form security secret (CSRF protection)
+    csrf_secret:            6cc639021d4e962f103bb6655f731c77bf072b60
+
+    # Output escaping settings
+    escaping_strategy:      false
+    escaping_method:        ESC_SPECIALCHARS
+
+    # Enable the database manager
+    use_database:           true
